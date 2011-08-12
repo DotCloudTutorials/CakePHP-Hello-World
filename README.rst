@@ -1,3 +1,7 @@
+To run this code on DotCloud, you need to `get a DotCloud account
+<https://www.dotcloud.com/accounts/register/>`_. DotCloud has a free tier,
+so you won't even need to draw your wallet!
+
 To deploy on DotCloud::
 
     dotcloud create my_app
